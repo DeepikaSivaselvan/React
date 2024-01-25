@@ -1,6 +1,7 @@
 
 import React from "react";
 import Login from "../Classcomponents/LoginComponent";
+import TestClasscomp from "../Classcomponents/testclassCoponents";
 function TestComp1(){
     return(
        <div>
